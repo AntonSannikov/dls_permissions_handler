@@ -40,7 +40,7 @@ flutter:
         pluginClass: DlsPermissionsHandlerPlugin
       web:
         pluginClass: DlsPermissionsHandlerPlugin
-        fileName: dls_permissions_handler_web.dart
+        fileName: src/dls_permissions_handler_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

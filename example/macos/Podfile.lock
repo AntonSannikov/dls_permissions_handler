@@ -1,0 +1,22 @@
+PODS:
+  - dls_permissions_handler (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - dls_permissions_handler (from `Flutter/ephemeral/.symlinks/plugins/dls_permissions_handler/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  dls_permissions_handler:
+    :path: Flutter/ephemeral/.symlinks/plugins/dls_permissions_handler/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  dls_permissions_handler: 53c70d0670d20cb824ed425b444cb6f52845f3dc
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.14.2

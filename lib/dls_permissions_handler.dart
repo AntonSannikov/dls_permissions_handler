@@ -5,7 +5,7 @@
 // platforms in the `pubspec.yaml` at
 // https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms.
 
-import 'dls_permissions_handler_platform_interface.dart';
+import 'package:dls_permissions_handler/src/dls_permissions_handler_platform_interface.dart';
 
 enum DlsPermission {
   microphone,
